@@ -74,7 +74,7 @@ const Q17 = () => {
                     <p>{isDisplay &&<div className='text-green-600 font-bold text-lg'>Result: <a className='text-white  uppercase font-bold text-lg'>{isDisplay}</a></div>}</p>
                    
               <button className='mt-4 p-1 border-2  rounded-lg bg-red-600 text-white font-semibold'>
-                <Link to='/'> Go to Home</Link>
+                <Link exact to='/Interview_Question_javascript'> Go to Home</Link>
               </button>  
               </div>
             );

@@ -22,7 +22,7 @@ const Q2 = () => {
                         onClick={countVowels}>Count Vowels</button>
                         <p className=' text-lg font-bold text-white'> Result: {isDisplay && string}</p>
 
-                <button className='mt-4 p-1 border-2  rounded-lg bg-red-600 text-white font-semibold'><Link to='/'> Go to Home</Link></button>  
+                <button className='mt-4 p-1 border-2  rounded-lg bg-red-600 text-white font-semibold'><Link exact to='/Interview_Question_javascript'> Go to Home</Link></button>  
                 
               </div>
     )

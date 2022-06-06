@@ -1,8 +1,8 @@
 {
-  "name": "interview_answer",
+  "name":"Interview_Question_javascript",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Pasupathirock.github.io/Interview_javascrip_Question/",
+  "homepage": "https://Pasupathirock.github.io/Interview_javascript_Question/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -10,7 +10,6 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-hook-form": "^7.31.2",
-    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },

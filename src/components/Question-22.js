@@ -37,7 +37,7 @@ const Q22 = () => {
                     onClick={stringCombinations}>Click on Combinations</button>
                 <p className=' font-medium text-base '><h3 className=' text-blue-600 text-center'>{isDisplay && <a>Result: {isDisplay}</a>}</h3></p>
               <button className='mt-4 p-1 border-2  rounded-lg bg-red-600 text-white font-semibold'>
-                <Link to='/'> Go to Home</Link>
+                <Link exact to='/Interview_Question_javascript'> Go to Home</Link>
               </button>  
               </div>
             );

@@ -72,7 +72,7 @@ const Q14 = () => {
             onClick={Frequency}>Submit</button>
     <p className=' text-blue-600 text-center'>{isDisplay && isDisplay}</p>
 
-    <button className='mt-4 p-1 border-2  rounded-lg bg-red-600 text-white font-semibold'><Link to='/'> Go to Home</Link></button>  
+    <button className='mt-4 p-1 border-2  rounded-lg bg-red-600 text-white font-semibold'><Link exact to='/Interview_Question_javascript'> Go to Home</Link></button>  
     
   </div>
     
